@@ -1,0 +1,12 @@
+{
+    "name": "Budget check",
+    "short_name": "budget",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+      
+    ],
+    "theme_color": "#ffd31d",
+    "background_color": "#333",
+    "display": "standalone"
+  }
